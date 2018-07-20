@@ -4,4 +4,4 @@
 layout: home
 ---
 
-We’re an entirely student-run team at Montgomery Blair High School. We plan to submit a proposal for the 2018 CubeSat Launch Initiative (CSLI) cycle, as part of NASA’s Educational Launch of NanoSatellites (ELaNa) program. Our satellite will measure ion density in the South Atlantic Anomaly region, helping to stimulate space weather research in the magnetosphere. You can support our team at GoFundMe/Kickstarter/WhateverLink. If you are interested in sponsoring us, please contact us at mbhscubesat@protonmail.com.
+We’re an entirely student-run team at [Montgomery Blair High School](https://mbhs.edu/). We plan to submit a proposal for the 2018 CubeSat Launch Initiative ([CSLI](https://www.nasa.gov/content/about-cubesat-launch-initiative)) cycle, as part of NASA’s Educational Launch of NanoSatellites ([ELaNa](https://www.nasa.gov/content/about-elana)) program. Our satellite will measure ion density in the South Atlantic Anomaly region, helping to stimulate space weather research in the magnetosphere. If you are interested in sponsoring us, please contact us at ryan.tse@blair3sat.com.
