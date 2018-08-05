@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blair3Sat 
+title: blair3sat 
 #email: ryan.tse@blair3sat.com
 #description: >- # this means to ignore newlines until "baseurl:"
-#  Website for Blair3Sat, a student-run CubeSat team based out of Montgomery
+#  Website for blair3sat, a student-run CubeSat team based out of Montgomery
 #  Blair High School applying for the CubeSat Launch Initiative (CSLI) and
 #  NASA’s Educational Launch of NanoSatellites (ELaNa) program. Our satellite
 #  will measure ion density in the South Atlantic Anomaly region, helping to
