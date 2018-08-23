@@ -10,7 +10,7 @@ We plan to measure ionospheric charge density and energy density to advance satc
 
 The ionosphere is a region of the atmosphere that contains charged plasma. The charged material in this region can influence wireless communications, as the charged plasma can reflect or refract radio waves. This can affect long-distance ground-based radio communication as well as ground-to-satellite radio communication.
 
-Understanding and mapping the charge density of the ionosphere is currently a priority for scientists as it would allow us to adapt communications systems and satellite electronics to better handle this environment.
+Understanding and mapping the charge density of the ionosphere will allow us to adapt communications systems and satellite electronics to better handle this environment.
 
 #### Ionosounding
 
@@ -18,7 +18,7 @@ Ground-based radar devices called ionosondes measure charge density in the ionos
 
 However, ionosondes’ output data do not provide enough information to completely reconstruct the entire charge density gradient. Ionosonde can measure signals’ time of flight, but they cannot discern what paths the signals take. One way to reduce this ambiguity would be to receive ionosonde signals in space before they reflect and refract back down to the surface.
 
-#### Charge Density Instrument
+#### Radar Instrument
 
 We plan to reduce ambiguity in ionosonde measurements by providing passive and active measurements in space.
 
@@ -38,6 +38,6 @@ Observation of daily fluctuations in energetic particle count combined with othe
 
 #### Energetic Particle Detection Instrument
 
-We plan to indirectly measure energetic particles by detecting photon emissions from excited atoms. Specifically, we plan to observe oxygen emissions in the visible spectrum with a narrowband filter and a CCD.
+We plan to indirectly measure energetic particles by measuring photon emissions from excited atoms. Specifically, we plan to observe oxygen emissions in the visible spectrum with a narrowband filter and a CCD.
 
 Though *blair3sat* will be flying much lower than the areas with dangerous radiation levels, this passive instrument will produce data that could contribute to geomagnetic models.
