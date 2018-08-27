@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Laura Cui
-MBHS Senior, science mission
+MBHS Senior, optical instrument
 
 ### Gautom Das
 MBHS Junior, mechanical and software
@@ -14,7 +14,7 @@ MBHS Junior, mechanical and software
 MBHS Junior, mechanical and electronics
 
 ### Patrick Kim
-MBHS Senior, instrumentation
+MBHS Senior, radar instrument
 
 ### Shwetha Kunnam
 MBHS Senior, business
@@ -23,4 +23,4 @@ MBHS Senior, business
 MBSH Senior, mechanical and electronics
 
 ### Ryan Tse
-MBHS Senior, communications systems and electronics
+MBHS Senior, radar instrument and communications system
