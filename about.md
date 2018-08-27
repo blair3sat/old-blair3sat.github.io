@@ -19,5 +19,8 @@ MBHS Senior, instrumentation
 ### Shwetha Kunnam
 MBHS Senior, business
 
+### Brian Liang
+MBSH Senior, mechanical and electronics
+
 ### Ryan Tse
 MBHS Senior, communications systems and electronics
