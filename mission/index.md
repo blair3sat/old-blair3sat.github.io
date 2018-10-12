@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: mission
 title: Our Mission
-permalink: /mission/
+excerpt: A collection of Blair3Sat's most recent developments.
+comments: false
 ---
+
 
 We plan to measure ionospheric charge density and energy density to advance satcom, OTH radar, and geomagnetics research. Our two main instrumentation methods are HF radar and visible spectrum digital imaging.
 
