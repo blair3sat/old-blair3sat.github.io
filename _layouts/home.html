@@ -1,50 +1,33 @@
 ---
 layout: compress
 ---
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
 </head>
 <body>
     {% include nav.html %}
     <!-- Header -->
-    <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
-            <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
-                    </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			            </a>
-                    </h3>
-                    <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
-                         About
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
-                         Our Project
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/posts">
-                         News
-                         </a>
-                 </h3>
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+              <a href="{{ site.url }}">
+                  <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+              </a>
+              <h3 class="title">
+                  <a class="zoombtn" href="{{ site.url }}">
+                    <p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
+                  </a>
+              </h3>
+                {% include social-links.html %}
+              <hr class="hr-line">
+              <div align="justify" style="padding-left: 30px; padding-right: 30px;">
+              <p align="justify" style="font-size: 16px;">We’re an entirely student-run team at <a href="https://mbhs.edu">Montgomery Blair High School</a>. We plan to submit a proposal for the 2018 CubeSat Launch Initiative (CSLI) cycle, as part of NASA’s Educational Launch of NanoSatellites (ELaNa) program. Our satellite will measure charge density and high energy particle emissions in the ionosphere, contributing to radio propagation models and space weather research. <br/> <br/>Help us get to space by donating to our GoFundMe! If you want more information about our mission or you are interested in sponsoring us, please contact us at ryan.tse@blair3sat.com.</p>
+              <br/><br/></div>
             </div>
         </div>
     </header>
     {% include scripts.html %}
+    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
 </body>
 </html>
