@@ -1,7 +1,7 @@
 ---
 layout: mission
 title: Our Mission
-excerpt: A collection of Blair3Sat's most recent developments.
+excerpt: A collection of blair3sat's most recent developments.
 comments: false
 ---
 
