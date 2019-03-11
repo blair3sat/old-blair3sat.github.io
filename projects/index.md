@@ -5,7 +5,7 @@ excerpt: "blair3sat's sponsorship tiers"
 comments: false
 ---
 
-<div style="font-size:36pt;color:#000055;display:inline;text-shadow:0px 2px 3px #0000ff;font-weight:bold;">Diamond</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $30,000.00+</div>
+<div style="font-size:36pt;color:#000055;display:inline;text-shadow:0px 2px 3px #000033;font-weight:bold;">Diamond</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $30,000.00+</div>
 * Part named after organization
 * Large logo on letterhead
 * Name lazered into chassis
@@ -31,7 +31,7 @@ comments: false
 
 ---
 
-<div style="font-size:36pt;display:inline;text-shadow:0px 2px 3px #AAAAAA;font-weight:bold;">Support</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $1.00 – $299.99</div>
+<div style="font-size:36pt;display:inline;text-shadow:0px 2px 3px #333333;font-weight:bold;">Support</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $1.00 – $299.99</div>
 * Annual updates
 
 ---
