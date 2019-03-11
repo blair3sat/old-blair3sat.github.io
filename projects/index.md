@@ -6,5 +6,5 @@ comments: false
 ---
 
 
-<div style="font-size:24pt;color:gold;">Gold</div><div style="font-size:24pt;"> $10,000.00 – $30,000.00</div>
-Large logo on letterhead, name lazered into chassis
+<div style="font-size:24pt;"><div style="color:Gold;">Gold</div>  $10,000.00 – $30,000.00</div>
+* Large logo on letterhead, name lazered into chassis
