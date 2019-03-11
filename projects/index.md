@@ -5,6 +5,28 @@ excerpt: "blair3sat's sponsorship tiers"
 comments: false
 ---
 
+<div style="font-size:36pt;color:Gold;display:inline;text-shadow:0px 2px 3px #CFB53B;font-weight:bold;">Diamond</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $30,000.00+</div>
+* Part named after organization
+* Large logo on letterhead
+* Name lazered into chassis
+* Personalized quarterly updates
+---
 
 <div style="font-size:36pt;color:Gold;display:inline;text-shadow:0px 2px 3px #CFB53B;font-weight:bold;">Gold</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $10,000.00 – $30,000.00</div>
-<pre style="display:inline;">      </pre>* Large logo on letterhead, name lazered into chassis
+* Large logo on letterhead
+* Name lazered into chassis
+* Personalized quarterly updates
+---
+
+<div style="font-size:36pt;color:Gold;display:inline;text-shadow:0px 2px 3px #CFB53B;font-weight:bold;">Silver</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $3,000.00 – $9,999.99</div>
+* Medium logo on letterhead
+* Personalized quarterly updates
+---
+
+<div style="font-size:36pt;color:Gold;display:inline;text-shadow:0px 2px 3px #CFB53B;font-weight:bold;">Bronze</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $300.00 – $2,999.99</div>
+* Personalized quarterly updates
+---
+
+<div style="font-size:36pt;color:Gold;display:inline;text-shadow:0px 2px 3px #CFB53B;font-weight:bold;">Support</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $1.00 – $299.99</div>
+* Annual updates
+---
