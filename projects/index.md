@@ -6,5 +6,5 @@ comments: false
 ---
 
 
-<div style="font-size:36pt;color:Gold;display:inline;text-shadow:0px 2px 3px #CFB53B;">Gold</div><pre style="display:inline;">        </pre><div style="font-size:19pt;display:inline;">  $10,000.00 – $30,000.00</div>
+<div style="font-size:36pt;color:Gold;display:inline;text-shadow:0px 2px 3px #CFB53B;font-weight:bold;">Gold — </div><pre style="display:inline;">      </pre><div style="font-size:19pt;display:inline;">  $10,000.00 – $30,000.00</div>
 * Large logo on letterhead, name lazered into chassis
