@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: mission
 title: Sponsorship Opportunities
 excerpt: "blair3sat's sponsorship tiers"
 comments: false
