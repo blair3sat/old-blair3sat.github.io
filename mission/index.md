@@ -24,12 +24,14 @@ Unfortunately, ionosondes’ output data do not provide enough information to co
 
 ### Optical Payload
 
-The atmosphere is also home to the increased levels of radiation due to the offset of the geomagnetic pole and interactions of charged particles with the Earth’s magnetic field. Energetic particle flux at certain altitudes pose serious risks to both spacecraft electronics and astronauts.
+Excited atoms in the ionosphere emit diffuse electromagnetic radiation corresponding to a characteristic spectrum. These emissions are produced by a variety of photochemical processes, and are specific to the ion species and conditions of the ionosphere. Optical measurements can be used to determine the concentration of different species as well as the electron density in a given region. With this data, we can also reconstruct three-dimensional structures, improving predictive models of dynamic processes in the ionosphere. *blair3sat* will use a limb-viewing photometer to measure variations in airglow intensity over the course of its mission. 
 
-Observation of daily fluctuations in energetic particle count combined with other geomagnetic data would allow improved understanding of the processes involved in the evolution of large-scale structures in the atmosphere. This kind of science could eventually contribute towards predictive models of this energetic particle flux that could be used to enhance spacecraft and astronaut safety at higher altitudes.
+#### Airglow Imaging
 
-#### Optical Payload
+Incoming solar radiation interacts with oxygen and nitrogen atoms in the neutral thermosphere to produce free ions and electrons, which can then participate in a variety of light-producing processes. In particular, during recombination, metastable or long-lasting electron configurations produce diffuse photons with distinct wavelengths. The intensity of the light is proportional to both ion and electron density as well as the emission rate of the transition, which depends on conditions such as temperature and neutral species density. Typically, this is taken as a line integral of the emission rate multiplied by the square of the electron density along the line of sight, allowing us to extract vertical electron density profiles from the data.
 
-We plan to indirectly measure energetic particles by measuring photon emissions from excited atoms. Specifically, we plan to observe oxygen emissions in the visible spectrum with a narrowband filter and a CCD.
+The use of the extreme ultraviolet airglow spectrum to measure ionospheric activity is well-established. While these emissions can be observed minimal background pollution, they are typically an order of magnitude less sensitive than visible spectrum measurements. Recently, the OI 557.8 nm line has received attention as another candidate for studying ionospheric activity, with the advantages of increased sensitivity and density dependency, which allow additional altitude information to be extracted from the measurements.
 
-Though *blair3sat* will be flying much lower than the areas with dangerous radiation levels, this passive instrument will produce data that could contribute to geomagnetic models.
+#### Our Instrument
+
+*blair3sat* will use a limb-viewing photometer design combined with a set of passband filters and visible range CCD sensor optimized for observing the 557.8 nm emission. The instrument will be placed at the back of the satellite, and oriented to look slightly downwards towards the horizon. The inclination of the satellite orbit, combined with its altitude near the peak of the daytime F layer, offer the opportunity to observe daily variations over a wide geographical area. Furthermore, by combining and correlating data collected by the optical and RF payloads, we will be able to better characterize the measurements made by each, allowing us to cross-validate our methods and to better understand the behavior of the 557.8 nm emission.
