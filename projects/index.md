@@ -8,7 +8,7 @@ comments: false
 <div style="font-size:36pt;color:#add8e6;display:inline;text-shadow:0px 2px 3px #6060e0;font-weight:bold;">Diamond</div><pre style="display:inline;">      </pre><div style="font-size:19pt;displaydisplay:inline;">  $30,000.00+</div>
 * Part named after organization
 * Large logo on letterhead
-* Name lazered into chassis
+* Name lasered into chassis
 * Personalized quarterly updates
 
 ---
